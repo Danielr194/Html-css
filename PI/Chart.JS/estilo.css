@@ -1,0 +1,12 @@
+ body{
+    display: flex;
+ }
+
+.corpo{
+    display: flex;
+    justify-content: center;
+    position: relative;
+     margin-top: 12%;
+     margin-left: 10%;
+
+}
